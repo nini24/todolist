@@ -1,0 +1,17 @@
+ [{
+   "task":"Push Kasefile code to Git",
+   "complete":false
+},
+{
+   "task":"Call Morin by 5am",
+   "complete":false
+},
+{
+    "task":"Send design to Adze",
+    "complete":false
+ },
+ {
+    "task":"Take a nap by 2:30",
+    "complete":false
+ }
+]
